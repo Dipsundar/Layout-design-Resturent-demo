@@ -11,4 +11,4 @@ A sample of food website for local resturent.  Fully responsive design using htm
 - Html
 - Css
 
-### [Click here to see the project demo](https://dipsundar.github.io/resturent-layout-design/)
+### [Click here to see the project demo](https://dipsundar.github.io/Layout-design-Resturent-demo/)
